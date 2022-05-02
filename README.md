@@ -1,2 +1,2 @@
 # landing-page
-Project to make a landing page for Lambda Chi Alpha
+Basic landing page template for The Odin Project showing different models and information cards.
